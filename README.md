@@ -34,8 +34,8 @@
         <button onclick="checkCode()">Enviar</button>
     </div>
     <div id="card">
-        <h1>¡GUAPITO!</h1> <span class="emoji">😘</span></h1>
-        <p>Este es un mensaje especial solo para ti.</p> <span class="emoji">❤️</span></p>
+        <h1>¡GUAPITO! 😘😘😘😘😘😘😘😘😘😘😘😘😘😘😘 h1>
+        <p>Este es un mensaje especial solo para ti.❤️>
         <p>Que tengas un día maravilloso.</p>
     </div>
 
